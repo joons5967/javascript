@@ -70,7 +70,7 @@ for( x in gnb){
 
 }
 
-//console.log(mycode)
+console.log(mycode)
 
 const obj = {
   nm : "네이버",
